@@ -1,1 +1,1 @@
-<? php  include_once("wep.html"); ?>
+<?php include_once("wep.html"); ?>
